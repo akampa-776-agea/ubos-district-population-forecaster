@@ -1,0 +1,16 @@
+
+numpy       # numerical arrays and forecasting calculations.
+pandas      # data tables and CSV exports 
+matplotlib  # population and forecast visualizations.
+scipy       # scientific computing, as expected by the assignment.
+scikit-learn #MAE and RMSE evaluation metrics.
+pytest      # automated unit testing.
+jupyter     # running the notebook.
+
+# to verify the dependencies
+# python -m pip install -r requirements.txt with ctrl+shift + `
+# after installation --update python.exe -m pip install --upgrade pip
+# add python -m pytest -v
+
+
+# at the end we shall have a 1. A reusable Python package 2.A data-driven planning tool 3. Evidence that your code works 4.A reproducible academic project
